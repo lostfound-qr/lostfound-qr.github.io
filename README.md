@@ -7,7 +7,7 @@ yarn start
 ```
 - Start development server
 ```cmd
-yarn start --dev
+yarn dev
 ```
 - Export static files
 ```cmd
